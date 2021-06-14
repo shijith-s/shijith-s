@@ -2,11 +2,11 @@
 ####  I am an IITian:mortar_board:
 ---
 ### About Me
-- I am an enthusiatsic student from IIT (BHU) Varanasi, India.
+- I am an enthusiastic student from IIT (BHU) Varanasi, India.
 - My interests include coding :computer:, Web Development, Web Designing and so on..
 - Sorry to mention, I am interested in any Tech related stuffs :stuck_out_tongue_winking_eye:.
 - My hobbies include Coding, Web Development and Designing, drawing, watching movies and exploring curious things :grin:.
-- I try my best to make me productive and creative during this short period of life.
+- I try my best to make myself productive and creative during this short period of life.
 
 ### Reach out to me
 
