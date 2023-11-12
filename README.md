@@ -1,12 +1,24 @@
-# 👋 Hi, I’m *Shijith*
-####  I am an IITian:mortar_board:
----
-### About Me
-- I am an enthusiastic student from IIT (BHU) Varanasi, India.
-- My interests include coding :computer:, Web Development, Web Designing and so on..
-- Sorry to mention, I am interested in any Tech related stuffs :stuck_out_tongue_winking_eye:.
-- My hobbies include Coding, Web Development and Designing, drawing, watching movies and exploring curious things :grin:.
-- I try my best to make myself productive and creative during this short period of life.
+# 👋 Hello World! I'm Shijith.
+
+I'm a passionate Full Stack Developer and recent graduate from the Indian Institute of Technology (BHU), Varanasi. My coding journey encompasses a diverse tech stack, including ReactJS, Next.js, MongoDB, Node.js, and more. With a keen interest in Data Structures, Algorithms, and Web Development, I'm dedicated to crafting seamless user experiences.
+
+🚀 **Tech Toolbox:**
+- **Languages:** C/C++, Python, HTML, CSS, JavaScript, SQL
+- **Tools & Technologies:** ReactJS, Next.js, MongoDB, Node.js, Express.js, MySQL, Sass, Heroku, Git, GitHub
+
+🛠️ **Projects Highlights:**
+- Developed interactive transit system visualizations for Varanasi Smart City Ltd.
+- Spearheaded the strategic pivot of a website, integrating Google OAuth and optimizing frontend performance.
+- Contributed to automating workflows for high-end routers at Cisco Systems.
+
+📚 **Education:**
+- Integrated Dual Degree in Civil Engineering, IIT (BHU), Varanasi, Class of 2024.
+
+🏆 **Achievements:**
+- Winner of Flipr Hackathon X.
+- First place in Goldberg’s Alley, Contraption Designing event of Technex ’20, IIT(BHU) Varanasi.
+
+Let's code something amazing together! 🚀
 
 ### Reach out to me
 
@@ -26,9 +38,10 @@
 <code><img height="50" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_sass_icon_130182.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/git.svg"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/react/react.png"></code>&nbsp;&nbsp;
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>&nbsp;&nbsp;
+<code><img height="50" 
+src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/mysql/mysql.png"></code>&nbsp;&nbsp;
+<code><img height="50"         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>&nbsp;&nbsp;
-<!--<code><img height="50" src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/r.svg"></code>&nbsp;&nbsp;-->
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png"></code>&nbsp;&nbsp;
 <code><img height="50" src="https://raw.githubusercontent.com/Workshape/tech-icons/72fd0e4dc0320a84dc489d9dd8f63338926098e0/icons/nodejs.svg"></code>&nbsp;&nbsp;
@@ -38,10 +51,12 @@
 </div>
 <br>
 <br>
-<br>
-<br>
 <div>
-<em><b>"You should not give up and <br>
-we should not allow the problem to defeat us."</b></em><br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<em>-APJ Abdul Kalam Sir</em>
+<pre>
+  while(noSuccess){
+    tryAgain();
+    if(dead)
+        break;
+  }
+</pre>
 </div>
