@@ -3,7 +3,7 @@
 I'm a passionate Full Stack Developer and recent graduate from the Indian Institute of Technology (BHU), Varanasi. My coding journey encompasses a diverse tech stack, including ReactJS, Next.js, MongoDB, Node.js, and more. With a keen interest in Data Structures, Algorithms, and Web Development, I'm dedicated to crafting seamless user experiences.
 
 🚀 **Tech Toolbox:**
-- **Languages:** C/C++, Python, HTML, CSS, JavaScript, SQL
+- **Languages:** C/C++, Python, HTML, CSS, JavaScript, TypeScript, SQL
 - **Tools & Technologies:** ReactJS, Next.js, MongoDB, Node.js, Express.js, MySQL, Sass, Heroku, Git, GitHub
 
 🛠️ **Projects Highlights:**
